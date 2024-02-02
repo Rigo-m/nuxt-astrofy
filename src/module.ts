@@ -1,8 +1,7 @@
-import { defineNuxtModule, addPlugin, createResolver } from "@nuxt/kit";
-import { isBoolean } from "util";
+import { defineNuxtModule } from "@nuxt/kit";
 
 // Module options TypeScript interface definition
-export interface ModuleOptions { }
+export interface ModuleOptions {}
 
 export default defineNuxtModule<ModuleOptions>({
   meta: {

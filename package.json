@@ -1,6 +1,6 @@
 {
   "name": "@rigo-m/nuxt-astrofy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small module to go hydrationless on nuxt",
   "repository": "rigo-m/nuxt-astrofy",
   "license": "MIT",
